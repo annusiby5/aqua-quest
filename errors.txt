@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/gui.rpy", line 218: expected expression
+    define gui.slot_button_text_selected_hover_color =
+                                                       ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Fri Jun 19 23:34:00 2026
