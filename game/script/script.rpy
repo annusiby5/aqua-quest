@@ -10,13 +10,13 @@ label splashscreen:
     scene black
     with Pause(1)
 
-    show text "{b}Tech Titans Presents{/b}" with dissolve
+    show text "{b}Annu Siby Presents{/b}" with dissolve
     with Pause(2)
 
     hide text with dissolve
     with Pause(1)
 
-    show text "{b}{i}Aqua-Quest{/i}{/b}" with dissolve
+    show text "{b}{i}AquaQuest{/i}{/b}" with dissolve
     with Pause(2)
 
     hide text with dissolve

@@ -24,18 +24,19 @@ define config.check_conflicting_properties = True
 ##
 ## The colors of text in the interface.
 
-define gui.accent_color = '#FF5C5C'
-define gui.idle_color = '#E6D9D9'
-define gui.idle_small_color = '#A88F8F'
+define gui.accent_color = '#22C55E'
 
-define gui.hover_color = '#FF7B7B'
+define gui.idle_color = '#D9E6D9'
+define gui.idle_small_color = '#8FA88F'
+
+define gui.hover_color = '#22C55E'
 define gui.selected_color = '#FFFFFF'
 define gui.insensitive_color = '#7777777F'
 
-define gui.muted_color = '#3A1F1F'
-define gui.hover_muted_color = '#5A2D2D'
+define gui.muted_color = '#1F3A1F'
+define gui.hover_muted_color = '#2D5A2D'
 
-define gui.text_color = '#672828'
+define gui.text_color = '#286728'
 define gui.interface_text_color = '#999999'
 
 ## Fonts and Font Sizes ########################################################
@@ -72,7 +73,7 @@ define gui.title_text_size = 75
 ## Main and Game Menus #########################################################
 
 ## The images used for the main and game menus.
-define gui.main_menu_background = "gui/main_menu.png"
+define gui.main_menu_background = "gui/main_menu_1.png"
 define gui.game_menu_background = "gui/game_menu.png"
 
 
@@ -196,8 +197,8 @@ define gui.choice_button_borders = Borders(150, 8, 150, 8)
 define gui.choice_button_text_font = gui.text_font
 define gui.choice_button_text_size = gui.text_size
 define gui.choice_button_text_xalign = 0.5
-define gui.choice_button_text_idle_color = '#3A1F1F'
-define gui.choice_button_text_hover_color = '#FF5C5C'
+define gui.choice_button_text_idle_color = '#1B3324'
+define gui.choice_button_text_hover_color = '#22C55E'
 define gui.choice_button_text_insensitive_color = '#7777777F'
 
 
